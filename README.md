@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./demo.gif" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/MahdiyarGHD/KnightTour/raw/main/img/chess-pieace.png" alt="logo" width="200" height="auto" />
   <h1>Knight's tour problem solver</h1>
   
   <p>
@@ -19,7 +19,7 @@
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="img/ss.gif" alt="screenshot" />
+  <img src="./demo.gif" alt="screenshot" />
 </div>
 
 
