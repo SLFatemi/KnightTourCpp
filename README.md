@@ -1,8 +1,59 @@
-# KnightTourCpp
-Solving the KnightTour problem with C++
+<div align="center">
 
-required inputs :
-Board size : (n,m)
+  <img src="./demo.gif" alt="logo" width="200" height="auto" />
+  <h1>Knight's tour problem solver</h1>
+  
+  <p>
+    Solving the KnightTour problem with C++
+  </p>
+  
+  </div>
+<br />
+  
+
+<!-- About the Project -->
+## :star2: About the Project
+
+
+<!-- Screenshots -->
+### :camera: Screenshots
+
+<div align="center"> 
+  <img src="img/ss.gif" alt="screenshot" />
+</div>
+
+
+<!-- Env Variables -->
+### :key: Required inputs
+
+To use this project, you will need to enter the required inputs
+
+Board size : (n,m)  <br>
 Knight's position : (x,y)
 
-Works at stupidly high time complexity cause i don't care.
+<!-- run -->
+### :triangular_flag_on_post: run
+
+To run this project, run
+
+```bash
+  g++ Knight'sTour.cpp
+```
+
+<!-- Roadmap -->
+## :compass: Todo
+
+* [x] Solve Knight's tour problem
+* [x] Update readme 
+
+<!-- Contact -->
+## :handshake: Contact
+
+[https://github.com/SLFatemi](https://github.com/SLFatemi)
+
+
+<!-- Acknowledgments -->
+## :gem: Sources
+
+ - [https://en.wikipedia.org/wiki/Knight%27s_tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
+ - [https://blog.faradars.org/the-knights-tour-problem-backtracking/](https://blog.faradars.org/the-knights-tour-problem-backtracking/)
