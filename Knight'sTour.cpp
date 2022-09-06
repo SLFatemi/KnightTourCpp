@@ -17,7 +17,6 @@ int main(){
 	int x,y;
 	cin >> y >> x;
 	table[x][y] = 1;
-	cout << "Horse is at : " << x << " , " << y << endl;
 	for(int i =1;i <= n;i++){
 		for(int j = 1;j <= m;j++){
 			cout << table[i][j] << ' ';
