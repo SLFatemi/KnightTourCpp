@@ -56,4 +56,3 @@ To run this project, run
 ## :gem: Sources
 
  - [https://en.wikipedia.org/wiki/Knight%27s_tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
- - [https://blog.faradars.org/the-knights-tour-problem-backtracking/](https://blog.faradars.org/the-knights-tour-problem-backtracking/)
