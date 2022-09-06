@@ -49,7 +49,7 @@ To run this project, run
 <!-- Contact -->
 ## :handshake: Contact
 
-[https://github.com/SLFatemi](https://github.com/SLFatemi)
+- [https://github.com/SLFatemi](https://github.com/SLFatemi)
 
 
 <!-- Acknowledgments -->
