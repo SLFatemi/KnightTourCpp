@@ -31,6 +31,8 @@ To use this project, you will need to enter the required inputs
 Board size : (n,m)  <br>
 Knight's position : (x,y)
 
+Works at stupidly high time complexity cause i don't care
+
 <!-- run -->
 ### :triangular_flag_on_post: run
 
