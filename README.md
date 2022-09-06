@@ -6,7 +6,7 @@
   <p>
     Solving the KnightTour problem with C++ - https://vrgl.ir/IB9LJ
   </p>
-  
+  <p>Works at stupidly high time complexity cause i don't care</p>
   </div>
 <br />
   
